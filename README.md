@@ -24,9 +24,9 @@ $ cd ~/django-env
 $ . bin/activate
 ```
 
-5. Install Django
+5. Install Django and Django Rest Framework
 ```sh
-$ pip install django
+$ pip install django djangorestframework
 ```
 
 6. Run Migrations
